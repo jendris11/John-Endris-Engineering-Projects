@@ -1,1 +1,1 @@
-John Endris Engineering Projects
+This Repository contains Engineering Projects done by John Endris. The included files do not include all original project files, but only those necessary to convey the technical skill/experience involved in each project.
